@@ -1,0 +1,298 @@
+{
+  "meta": {
+    "title": "Guest Experience Audit | Controlo independente de qualidade para alojamento de curta duração",
+    "description": "Auditorias independentes da experiência do hóspede para propriedades Airbnb e Booking.com na região do Grande Porto."
+  },
+  "brand": {
+    "name": "Guest Experience Audit"
+  },
+  "accessibility": {
+    "skipToContent": "Saltar para o conteúdo principal",
+    "home": "Página inicial do Guest Experience Audit",
+    "primaryNavigation": "Navegação principal",
+    "languageSelector": "Seletor de idioma",
+    "serviceHighlights": "Destaques do serviço",
+    "reportPreview": "Pré-visualização do relatório Guest Experience Audit",
+    "foundersPhoto": "Fundadores do serviço de auditoria"
+  },
+  "nav": {
+    "problem": "Porque é importante",
+    "methodology": "Metodologia",
+    "report": "O que recebe",
+    "faq": "Perguntas frequentes",
+    "openMenu": "Abrir menu"
+  },
+  "cta": {
+    "requestAudit": "Pedir auditoria",
+    "callNow": "Ligar agora"
+  },
+  "hero": {
+    "eyebrow": "Controlo independente de qualidade para alojamento de curta duração",
+    "title": "Saiba o que o seu próximo hóspede vai realmente experienciar.",
+    "subtitle": "Inspecionamos o imóvel no local, documentamos aquilo que o hóspede irá notar e entregamos um plano de ação claro antes de pequenos problemas se transformarem em avaliações negativas.",
+    "trust": {
+      "independent": "Independente",
+      "onSite": "No local",
+      "evidence": "Provas fotográficas e em vídeo",
+      "location": "Grande Porto"
+    }
+  },
+  "reportPreview": {
+    "label": "Relatório de campo",
+    "title": "Estado de preparação para hóspedes",
+    "status": "Pronto com ações pendentes",
+    "critical": "Crítico",
+    "high": "Prioridade alta",
+    "medium": "Prioridade média",
+    "findings": {
+      "one": {
+        "tag": "Alta",
+        "text": "O Wi-Fi do quarto torna-se instável junto à cama."
+      },
+      "two": {
+        "tag": "Média",
+        "text": "A cozinha não tem garfos suficientes para quatro hóspedes."
+      },
+      "three": {
+        "tag": "Resolvido",
+        "text": "A maçaneta solta da casa de banho foi apertada durante a auditoria."
+      }
+    }
+  },
+  "problem": {
+    "eyebrow": "A falha invisível",
+    "title": "Tudo parece estar bem — até um hóspede dizer o contrário.",
+    "subtitle": "Os problemas mais prejudiciais são pequenos, físicos e fáceis de ignorar à distância.",
+    "cards": {
+      "cleaner": {
+        "title": "A equipa de limpeza diz que está tudo bem.",
+        "text": "Mas a verificação da limpeza não cobre ruído, conforto, acesso, Wi-Fi ou desgaste."
+      },
+      "photos": {
+        "title": "As fotografias parecem perfeitas.",
+        "text": "Mas não mostram cheiros, pressão de água fraca ou um colchão desconfortável."
+      },
+      "manager": {
+        "title": "A empresa de gestão não reporta problemas.",
+        "text": "Mas a mesma empresa gere o imóvel e avalia o próprio trabalho."
+      },
+      "review": {
+        "title": "Depois chega a avaliação.",
+        "text": "Nessa altura o hóspede já viveu o problema e a classificação do imóvel já pagou o preço."
+      }
+    }
+  },
+  "alternatives": {
+    "eyebrow": "Porque as soluções atuais não são suficientes",
+    "title": "Não é possível gerir aquilo que não se vê verdadeiramente.",
+    "subtitle": "Cada opção existente mostra apenas uma parte da realidade.",
+    "items": {
+      "cleaner": {
+        "title": "Limpeza",
+        "text": "Verifica a limpeza, não a experiência completa do hóspede."
+      },
+      "manager": {
+        "title": "Gestor do imóvel",
+        "text": "Gere a propriedade e avalia o próprio desempenho."
+      },
+      "photos": {
+        "title": "Fotografias",
+        "text": "Mostram o que é visível, não o que se sente, ouve ou utiliza."
+      },
+      "ai": {
+        "title": "IA e software",
+        "text": "Não conseguem detetar humidade pelo cheiro, ouvir ruído de aparelhos ou testar um duche."
+      },
+      "self": {
+        "title": "Verificação pelo proprietário",
+        "text": "Exige tempo, presença física e uma perspetiva verdadeiramente objetiva."
+      }
+    }
+  },
+  "product": {
+    "eyebrow": "O serviço",
+    "title": "Uma auditoria independente construída em torno do percurso do hóspede.",
+    "subtitle": "Recebe provas, prioridades e um caminho claro para decidir — não uma pasta de fotografias sem contexto.",
+    "steps": {
+      "inspect": {
+        "title": "Veja a experiência real",
+        "text": "Testamos o imóvel da forma como um hóspede realmente o utiliza."
+      },
+      "evidence": {
+        "title": "Receba provas claras",
+        "text": "Cada conclusão importante é sustentada por fotografias, vídeos ou medições."
+      },
+      "action": {
+        "title": "Saiba o que fazer a seguir",
+        "text": "Cada problema recebe uma prioridade e uma recomendação prática."
+      }
+    }
+  },
+  "methodology": {
+    "eyebrow": "A nossa metodologia",
+    "title": "Seguimos o mesmo percurso do seu hóspede.",
+    "subtitle": "A auditoria é estruturada em torno da experiência e não de uma simples lista de divisões.",
+    "steps": {
+      "arrival": {
+        "title": "Chegada",
+        "text": "Direções, entrada, acesso e primeiro contacto."
+      },
+      "first": {
+        "title": "Primeira impressão",
+        "text": "Cheiro, temperatura, ruído, iluminação e limpeza visível."
+      },
+      "living": {
+        "title": "Experiência de estadia",
+        "text": "Sono, duche, cozinha, Wi-Fi, trabalho e descanso."
+      },
+      "hidden": {
+        "title": "Fricção escondida",
+        "text": "Problemas que não aparecem nas fotografias mas afetam uma estadia real."
+      },
+      "owner": {
+        "title": "Riscos para o proprietário",
+        "text": "Desgaste, danos e problemas que podem gerar custos futuros."
+      },
+      "plan": {
+        "title": "Plano de ação",
+        "text": "Prioridades, recomendações e próximos passos."
+      }
+    }
+  },
+  "report": {
+    "label": "Guest Experience Audit",
+    "status": "Pronto para hóspedes com ações pendentes",
+    "eyebrow": "O que recebe",
+    "title": "Uma ferramenta de decisão, não um conjunto de fotografias.",
+    "rows": {
+      "priority": "Resumo de prioridades",
+      "evidence": "Provas",
+      "evidenceValue": "24 fotografias · 3 vídeos",
+      "fixes": "Correções imediatas",
+      "fixesValue": "3 concluídas",
+      "plan": "Plano de ação",
+      "planValue": "6 ações prioritárias"
+    },
+    "features": {
+      "status": "Estado de preparação para hóspedes",
+      "priority": "Problemas por prioridade",
+      "evidence": "Provas fotográficas e em vídeo",
+      "recommendations": "Recomendações práticas",
+      "fixes": "Correções imediatas concluídas",
+      "plan": "Plano de ação claro"
+    }
+  },
+  "fixes": {
+    "eyebrow": "Correções imediatas",
+    "title": "Quando um pequeno problema pode ser resolvido com segurança no local, resolvemo-lo.",
+    "subtitle": "Cada visita deve deixar o imóvel melhor do que estava.",
+    "items": {
+      "handle": {
+        "before": "Maçaneta solta",
+        "after": "Apertada"
+      },
+      "battery": {
+        "before": "Pilhas descarregadas",
+        "after": "Substituídas"
+      },
+      "bulb": {
+        "before": "Lâmpada fundida",
+        "after": "Substituída"
+      },
+      "furniture": {
+        "before": "Mobiliário solto",
+        "after": "Fixado"
+      }
+    }
+  },
+  "trust": {
+    "photoPlaceholder": "Espaço reservado para fotografia dos fundadores",
+    "eyebrow": "Porque confiar em nós",
+    "title": "Criado a partir de experiência real em hotelaria.",
+    "text": "Não avaliamos imóveis apenas porque estudámos hotelaria. Gerimos uma unidade de alojamento e lidamos diariamente com hóspedes reais, reclamações reais e detalhes operacionais reais.",
+    "note": "Independente. Prático. Focado exclusivamente nos interesses do proprietário."
+  },
+  "area": {
+    "eyebrow": "Área de serviço",
+    "title": "Lançamento na região do Grande Porto.",
+    "text": "Porto, Vila do Conde, Póvoa de Varzim, Matosinhos, Maia, Braga, Guimarães, Aveiro e zonas próximas, mediante disponibilidade.",
+    "radius": "raio operacional"
+  },
+  "faq": {
+    "eyebrow": "Perguntas frequentes",
+    "title": "Perguntas comuns antes da marcação.",
+    "items": {
+      "management": {
+        "question": "São uma empresa de gestão de propriedades?",
+        "answer": "Não. Prestamos controlo de qualidade independente e não gerimos reservas, hóspedes ou operações diárias."
+      },
+      "cleaning": {
+        "question": "São uma empresa de limpeza?",
+        "answer": "Não. Verificamos a qualidade da limpeza como parte da experiência global do hóspede."
+      },
+      "presence": {
+        "question": "Preciso de estar presente?",
+        "answer": "Não. O acesso pode ser coordenado com o proprietário, equipa de limpeza, gestor ou sistema de self check-in."
+      },
+      "duration": {
+        "question": "Quanto tempo demora uma auditoria?",
+        "answer": "Depende do tamanho do imóvel e do âmbito da auditoria. Confirmamos a duração estimada antes da marcação."
+      },
+      "repairs": {
+        "question": "Podem corrigir problemas?",
+        "answer": "Pequenas correções seguras podem ser realizadas durante a visita. Trabalhos maiores são orçamentados e agendados separadamente."
+      },
+      "manager": {
+        "question": "Podem verificar o trabalho da minha empresa de gestão?",
+        "answer": "Sim. A verificação independente da qualidade da gestão é uma das principais utilizações do serviço."
+      }
+    }
+  },
+  "request": {
+    "eyebrow": "Pedir auditoria",
+    "title": "Veja o seu imóvel através dos olhos do hóspede.",
+    "subtitle": "Deixe os seus dados. Entraremos em contacto para confirmar o imóvel, o âmbito, a disponibilidade e o preço.",
+    "whatsapp": "WhatsApp"
+  },
+  "form": {
+    "name": {
+      "label": "Nome completo",
+      "placeholder": "O seu nome"
+    },
+    "email": {
+      "label": "Email",
+      "placeholder": "you@example.com"
+    },
+    "phone": {
+      "label": "Telefone / WhatsApp",
+      "placeholder": "+351 000 000 000"
+    },
+    "location": {
+      "label": "Localização do imóvel",
+      "placeholder": "Cidade ou zona"
+    },
+    "message": {
+      "label": "Mensagem opcional",
+      "placeholder": "Explique brevemente o que pretende verificar"
+    },
+    "consent": "Aceito ser contactado relativamente a este pedido de auditoria.",
+    "submit": "Pedir auditoria",
+    "success": "Obrigado. Recebemos o seu pedido e entraremos em contacto em breve.",
+    "errors": {
+      "required": "Este campo é obrigatório.",
+      "email": "Introduza um endereço de email válido.",
+      "phone": "Introduza um número de telefone válido.",
+      "consent": "Confirme que podemos contactá-lo.",
+      "submit": "Não foi possível enviar o pedido. Ligue-nos ou tente novamente."
+    }
+  },
+  "footer": {
+    "description": "Auditorias independentes da experiência do hóspede para alojamento de curta duração na região do Grande Porto.",
+    "contactTitle": "Contacto",
+    "whatsapp": "WhatsApp",
+    "areaTitle": "Área de serviço",
+    "area": "Grande Porto, Portugal",
+    "privacy": "Privacidade",
+    "terms": "Termos"
+  }
+}

@@ -1,0 +1,115 @@
+@media (max-width: 1080px) {
+  .desktop-nav { display: none; }
+  .menu-button { display: block; }
+  .header-cta { display: none; }
+
+  .problem-grid,
+  .fix-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+
+  .timeline { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+}
+
+@media (max-width: 820px) {
+  .section { padding-block: var(--space-9); }
+
+  .hero-grid,
+  .split-layout,
+  .report-section-grid,
+  .trust-grid,
+  .request-grid,
+  .faq-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .hero { min-height: auto; }
+
+  .hero-copy h1 { max-width: 13ch; }
+
+  .sticky-copy { position: static; }
+
+  .product-steps { grid-template-columns: 1fr; }
+
+  .footer-grid { grid-template-columns: 1fr 1fr; }
+
+  .trust-photo-placeholder { min-height: 360px; }
+}
+
+@media (max-width: 560px) {
+  .container { width: min(calc(100% - 1.25rem), var(--container)); }
+
+  .section { padding-block: 4.5rem; }
+
+  .brand-name { display: none; }
+
+  .language-switcher { margin-left: auto; }
+
+  .problem-grid,
+  .fix-grid,
+  .timeline,
+  .footer-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .hero-actions,
+  .direct-contact {
+    flex-direction: column;
+    align-items: stretch;
+  }
+
+  .hero-actions .button,
+  .direct-contact a { width: 100%; }
+
+  .report-card-top,
+  .report-sheet-header,
+  .report-row,
+  .service-area-card,
+  .footer-bottom {
+    align-items: flex-start;
+    flex-direction: column;
+  }
+
+  .report-metrics { grid-template-columns: 1fr; }
+
+  .service-area-card { display: grid; }
+
+  .area-badge { min-width: 140px; width: 140px; }
+
+  .footer-bottom div { flex-wrap: wrap; }
+}
+
+@media(max-width:1080px){.mobile-menu{position:fixed;inset:var(--header-height) 0 0;overflow-y:auto}.mobile-menu-inner{min-height:calc(100svh - var(--header-height));align-content:start}.mobile-menu-inner>a:not(.button){padding-block:.85rem;border-bottom:1px solid var(--color-line);font-size:1.25rem;font-weight:750}}
+@media(max-width:560px){.methodology-visual,.fixes-visual{border-radius:1.4rem}.hero-copy h1{font-size:clamp(3rem,15vw,4.6rem)}}
+
+@media print {
+  .site-header,
+  .mobile-menu,
+  .hero-actions,
+  .request-section,
+  .site-footer,
+  .language-switcher,
+  .menu-button {
+    display: none !important;
+  }
+
+  body {
+    color: #000;
+    background: #fff;
+  }
+
+  .section,
+  .hero {
+    padding: 2rem 0;
+    background: #fff !important;
+    color: #000 !important;
+  }
+
+  .reveal {
+    opacity: 1 !important;
+    transform: none !important;
+  }
+
+  a {
+    color: #000;
+    text-decoration: none;
+  }
+}

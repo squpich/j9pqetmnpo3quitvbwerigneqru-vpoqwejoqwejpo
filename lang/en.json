@@ -1,0 +1,298 @@
+{
+  "meta": {
+    "title": "Guest Experience Audit | Independent Quality Control for Short-Term Rentals",
+    "description": "Independent guest experience audits for Airbnb and Booking.com properties in Greater Porto."
+  },
+  "brand": {
+    "name": "Guest Experience Audit"
+  },
+  "accessibility": {
+    "skipToContent": "Skip to content",
+    "home": "Guest Experience Audit home",
+    "primaryNavigation": "Primary navigation",
+    "languageSelector": "Language selector",
+    "serviceHighlights": "Service highlights",
+    "reportPreview": "Guest Experience Audit report preview",
+    "foundersPhoto": "Founders of the audit service"
+  },
+  "nav": {
+    "problem": "Why it matters",
+    "methodology": "Methodology",
+    "report": "What you receive",
+    "faq": "FAQ",
+    "openMenu": "Open menu"
+  },
+  "cta": {
+    "requestAudit": "Request Audit",
+    "callNow": "Call Now"
+  },
+  "hero": {
+    "eyebrow": "Independent quality control for short-term rentals",
+    "title": "Know what your next guest will experience.",
+    "subtitle": "We inspect your property on-site, document what guests will notice and give you a clear action plan before small issues become bad reviews.",
+    "trust": {
+      "independent": "Independent",
+      "onSite": "On-site",
+      "evidence": "Photo & video evidence",
+      "location": "Greater Porto"
+    }
+  },
+  "reportPreview": {
+    "label": "Field report",
+    "title": "Guest Ready Status",
+    "status": "Ready with action items",
+    "critical": "Critical",
+    "high": "High priority",
+    "medium": "Medium priority",
+    "findings": {
+      "one": {
+        "tag": "High",
+        "text": "Bedroom Wi-Fi becomes unstable near the bed."
+      },
+      "two": {
+        "tag": "Medium",
+        "text": "Kitchen lacks enough forks for four guests."
+      },
+      "three": {
+        "tag": "Resolved",
+        "text": "Loose bathroom handle tightened during the audit."
+      }
+    }
+  },
+  "problem": {
+    "eyebrow": "The hidden gap",
+    "title": "Everything looks fine—until a guest says otherwise.",
+    "subtitle": "Most damaging issues are small, physical and easy to miss from a distance.",
+    "cards": {
+      "cleaner": {
+        "title": "The cleaner says everything is fine.",
+        "text": "But cleaning checks do not cover noise, comfort, access, Wi-Fi or wear."
+      },
+      "photos": {
+        "title": "The photos look perfect.",
+        "text": "But photos cannot show smell, weak water pressure or a mattress that guests cannot sleep on."
+      },
+      "manager": {
+        "title": "The property manager reports no issues.",
+        "text": "But the same company is managing and assessing its own work."
+      },
+      "review": {
+        "title": "Then the review arrives.",
+        "text": "By that point the guest has already experienced the problem and your rating has absorbed the cost."
+      }
+    }
+  },
+  "alternatives": {
+    "eyebrow": "Why current solutions fall short",
+    "title": "You cannot manage what you cannot truly see.",
+    "subtitle": "Each existing option shows only part of the picture.",
+    "items": {
+      "cleaner": {
+        "title": "Cleaner",
+        "text": "Checks cleanliness, not the entire guest experience."
+      },
+      "manager": {
+        "title": "Property manager",
+        "text": "Manages the property and evaluates their own performance."
+      },
+      "photos": {
+        "title": "Photos",
+        "text": "Show what is visible, not what is felt, heard or used."
+      },
+      "ai": {
+        "title": "AI & software",
+        "text": "Cannot smell damp, hear appliance noise or test a shower."
+      },
+      "self": {
+        "title": "Self-inspection",
+        "text": "Requires your time, physical presence and an objective perspective."
+      }
+    }
+  },
+  "product": {
+    "eyebrow": "The service",
+    "title": "An independent audit built around the guest journey.",
+    "subtitle": "You receive evidence, priorities and a clear decision path—not a folder of random photos.",
+    "steps": {
+      "inspect": {
+        "title": "See the real experience",
+        "text": "We test the property the way a guest actually uses it."
+      },
+      "evidence": {
+        "title": "Get clear evidence",
+        "text": "Every important finding is supported by photos, videos or measurements."
+      },
+      "action": {
+        "title": "Know what to do next",
+        "text": "Each issue is prioritised and paired with a practical recommendation."
+      }
+    }
+  },
+  "methodology": {
+    "eyebrow": "Our methodology",
+    "title": "We follow the same path your guest does.",
+    "subtitle": "The audit is structured around experience, not room-by-room box ticking.",
+    "steps": {
+      "arrival": {
+        "title": "Arrival",
+        "text": "Directions, entry, access and first contact."
+      },
+      "first": {
+        "title": "First impression",
+        "text": "Smell, temperature, noise, lighting and visible cleanliness."
+      },
+      "living": {
+        "title": "Living experience",
+        "text": "Sleep, shower, kitchen, Wi-Fi, work and rest."
+      },
+      "hidden": {
+        "title": "Hidden friction",
+        "text": "Issues that do not appear in photos but affect a real stay."
+      },
+      "owner": {
+        "title": "Owner risks",
+        "text": "Wear, damage and problems that may become future costs."
+      },
+      "plan": {
+        "title": "Action plan",
+        "text": "Priorities, recommendations and next steps."
+      }
+    }
+  },
+  "report": {
+    "label": "Guest Experience Audit",
+    "status": "Guest Ready with Action Items",
+    "eyebrow": "What you receive",
+    "title": "A decision tool, not a photo dump.",
+    "rows": {
+      "priority": "Priority overview",
+      "evidence": "Evidence",
+      "evidenceValue": "24 photos · 3 videos",
+      "fixes": "Immediate fixes",
+      "fixesValue": "3 completed",
+      "plan": "Action plan",
+      "planValue": "6 prioritised actions"
+    },
+    "features": {
+      "status": "Guest Ready Status",
+      "priority": "Prioritised issues",
+      "evidence": "Photo & video evidence",
+      "recommendations": "Practical recommendations",
+      "fixes": "Immediate fixes completed",
+      "plan": "Clear action plan"
+    }
+  },
+  "fixes": {
+    "eyebrow": "Immediate fixes",
+    "title": "When a small issue can be fixed safely on the spot, we do it.",
+    "subtitle": "Every visit should leave the property better than we found it.",
+    "items": {
+      "handle": {
+        "before": "Loose handle",
+        "after": "Tightened"
+      },
+      "battery": {
+        "before": "Dead batteries",
+        "after": "Replaced"
+      },
+      "bulb": {
+        "before": "Burned-out bulb",
+        "after": "Replaced"
+      },
+      "furniture": {
+        "before": "Loose furniture",
+        "after": "Secured"
+      }
+    }
+  },
+  "trust": {
+    "photoPlaceholder": "Founder photo placeholder",
+    "eyebrow": "Why trust us",
+    "title": "Built from real hospitality experience.",
+    "text": "We do not assess properties because we read about hospitality. We manage a guesthouse ourselves and deal with real guests, real complaints and real operational details every day.",
+    "note": "Independent. Practical. Focused only on the owner's interests."
+  },
+  "area": {
+    "eyebrow": "Service area",
+    "title": "Launching in Greater Porto.",
+    "text": "Porto, Vila do Conde, Póvoa de Varzim, Matosinhos, Maia, Braga, Guimarães, Aveiro and nearby areas, subject to availability.",
+    "radius": "operational radius"
+  },
+  "faq": {
+    "eyebrow": "FAQ",
+    "title": "Common questions before booking.",
+    "items": {
+      "management": {
+        "question": "Are you a property management company?",
+        "answer": "No. We provide independent quality control and do not manage bookings, guests or daily operations."
+      },
+      "cleaning": {
+        "question": "Are you a cleaning company?",
+        "answer": "No. We verify cleaning quality as part of the wider guest experience."
+      },
+      "presence": {
+        "question": "Do I need to be present?",
+        "answer": "No. Access can be coordinated through the owner, cleaner, manager or self check-in system."
+      },
+      "duration": {
+        "question": "How long does an audit take?",
+        "answer": "It depends on the property size and scope. We confirm the expected duration before booking."
+      },
+      "repairs": {
+        "question": "Can you fix problems?",
+        "answer": "Minor safe fixes can be completed during the visit. Larger work is quoted and scheduled separately."
+      },
+      "manager": {
+        "question": "Can you check my property manager's work?",
+        "answer": "Yes. Independent verification of management quality is one of the main use cases for the service."
+      }
+    }
+  },
+  "request": {
+    "eyebrow": "Request an audit",
+    "title": "See your property through your guest's eyes.",
+    "subtitle": "Leave your details. We will contact you to confirm the property, scope, availability and price.",
+    "whatsapp": "WhatsApp"
+  },
+  "form": {
+    "name": {
+      "label": "Full name",
+      "placeholder": "Your full name"
+    },
+    "email": {
+      "label": "Email",
+      "placeholder": "you@example.com"
+    },
+    "phone": {
+      "label": "Phone / WhatsApp",
+      "placeholder": "+351 000 000 000"
+    },
+    "location": {
+      "label": "Property location",
+      "placeholder": "City or area"
+    },
+    "message": {
+      "label": "Optional message",
+      "placeholder": "Tell us briefly what you want checked"
+    },
+    "consent": "I agree to be contacted about this audit request.",
+    "submit": "Request Audit",
+    "success": "Thank you. We received your request and will contact you shortly.",
+    "errors": {
+      "required": "This field is required.",
+      "email": "Enter a valid email address.",
+      "phone": "Enter a valid phone number.",
+      "consent": "Please confirm that we may contact you.",
+      "submit": "We could not send your request. Please call us or try again."
+    }
+  },
+  "footer": {
+    "description": "Independent guest experience audits for short-term rentals in Greater Porto.",
+    "contactTitle": "Contact",
+    "whatsapp": "WhatsApp",
+    "areaTitle": "Service area",
+    "area": "Greater Porto, Portugal",
+    "privacy": "Privacy",
+    "terms": "Terms"
+  }
+}

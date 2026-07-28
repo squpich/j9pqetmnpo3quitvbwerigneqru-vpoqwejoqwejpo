@@ -1,0 +1,69 @@
+.container {
+  width: min(calc(100% - 2rem), var(--container));
+  margin-inline: auto;
+}
+
+.section {
+  padding-block: var(--space-10);
+}
+
+.section-soft { background: var(--color-bg-soft); }
+
+.section-dark {
+  background: var(--color-bg-dark);
+  color: var(--color-text-inverse);
+}
+
+.split-layout,
+.hero-grid,
+.report-section-grid,
+.trust-grid,
+.request-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: clamp(2rem, 6vw, 6rem);
+  align-items: center;
+}
+
+.problem-grid,
+.product-steps,
+.fix-grid {
+  display: grid;
+  gap: var(--space-5);
+}
+
+.problem-grid,
+.fix-grid { grid-template-columns: repeat(4, minmax(0, 1fr)); }
+
+.product-steps { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+
+.timeline {
+  display: grid;
+  grid-template-columns: repeat(6, minmax(0, 1fr));
+  gap: var(--space-4);
+}
+
+.faq-grid {
+  display: grid;
+  grid-template-columns: 0.8fr 1.2fr;
+  gap: clamp(2rem, 6vw, 6rem);
+  align-items: start;
+}
+
+.footer-grid {
+  display: grid;
+  grid-template-columns: 1.4fr 0.8fr 0.8fr;
+  gap: var(--space-7);
+}
+
+.centered {
+  max-width: 780px;
+  margin-inline: auto;
+  text-align: center;
+}
+
+.sticky-copy {
+  position: sticky;
+  top: 8rem;
+  align-self: start;
+}

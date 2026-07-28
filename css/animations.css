@@ -1,0 +1,35 @@
+.reveal {
+  opacity: 1;
+  transform: none;
+}
+
+.js .reveal {
+  opacity: 0;
+  transform: translateY(18px);
+  transition: opacity 500ms ease-out, transform 500ms ease-out;
+}
+
+.js .reveal.is-visible {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    scroll-behavior: auto !important;
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+
+  .js .reveal {
+    opacity: 1;
+    transform: none;
+  }
+}
+
+.js .problem-grid .reveal:nth-child(2),.js .product-steps .reveal:nth-child(2),.js .fix-grid .reveal:nth-child(2){transition-delay:70ms}
+.js .problem-grid .reveal:nth-child(3),.js .product-steps .reveal:nth-child(3),.js .fix-grid .reveal:nth-child(3){transition-delay:140ms}
+.js .problem-grid .reveal:nth-child(4),.js .fix-grid .reveal:nth-child(4){transition-delay:210ms}

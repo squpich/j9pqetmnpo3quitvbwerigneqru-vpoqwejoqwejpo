@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+<rect width="1200" height="630" fill="#101916"/>
+<circle cx="1000" cy="70" r="280" fill="#0f766e" opacity=".22"/>
+<circle cx="1100" cy="560" r="260" fill="#8fe6d7" opacity=".12"/>
+<rect x="80" y="80" width="1040" height="470" rx="36" fill="#17211e" stroke="#2a3b35"/>
+<rect x="120" y="122" width="72" height="72" rx="20" fill="#0f766e"/>
+<path d="M139 139h34v8h-26v8h22v8h-22v6h26v8h-34z" fill="#fff"/>
+<text x="120" y="270" font-family="Inter,Arial,sans-serif" font-size="68" font-weight="700" fill="#ffffff">Know what your next guest</text>
+<text x="120" y="352" font-family="Inter,Arial,sans-serif" font-size="68" font-weight="700" fill="#8fe6d7">will actually experience.</text>
+<text x="120" y="430" font-family="Inter,Arial,sans-serif" font-size="30" fill="#c9d8d2">Independent guest experience audits for short-term rentals.</text>
+<text x="120" y="490" font-family="Inter,Arial,sans-serif" font-size="26" fill="#8fe6d7">Greater Porto · Portugal</text>
+</svg>
